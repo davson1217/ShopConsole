@@ -1,0 +1,15 @@
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\bin\Debug\net8.0\ShopConsole.Presentation.exe
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\bin\Debug\net8.0\ShopConsole.Presentation.deps.json
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\bin\Debug\net8.0\ShopConsole.Presentation.runtimeconfig.json
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\bin\Debug\net8.0\ShopConsole.Presentation.dll
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\bin\Debug\net8.0\ShopConsole.Presentation.pdb
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.AssemblyInfoInputs.cache
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.AssemblyInfo.cs
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.sourcelink.json
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.dll
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\refint\ShopConsole.Presentation.dll
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.pdb
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ShopConsole.Presentation.genruntimeconfig.cache
+C:\Users\David.Olurebi\OneDrive - Olympic Entertainment Group\Documents\TodoConsole\ShopConsole.Presentation\obj\Debug\net8.0\ref\ShopConsole.Presentation.dll

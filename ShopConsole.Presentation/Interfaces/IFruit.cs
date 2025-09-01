@@ -2,11 +2,10 @@
 
 namespace ShopConsole.Presentation.Interfaces;
 
-public interface IFruit
+public interface IProduct
 {
     public string Name { get; set; }
-
-    public string Color { get; set; }
-
-    public FruitSize Size { get; set; }
+    public double Price { get; set; }
+    // public string Color { get; set; }
+    // public FruitSize Size { get; set; }
 }

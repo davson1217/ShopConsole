@@ -3,17 +3,17 @@ using ShopConsole.Presentation.Model;
 
 namespace ShopConsole.Presentation.Interfaces;
 
-public interface IShop<T> where T : class
+public interface IShop<TItem> where TItem : IProduct
 {
-    List<T> Items { get; }
+    List<TItem> Items { get; }
 
-    List<T> Open(Sorter<T> sorter);
-    
+    List<TItem> Open(Sorter<TItem> sorter);
+
     public double Worth(bool isManager);
 
     public void AllowCustomers(List<Customer> customers);
 
     public int CustomerCount();
 
-    public Customer Sell(T item, Customer customer);
+    public Customer Sell(string itemName, Customer customer);
 }
